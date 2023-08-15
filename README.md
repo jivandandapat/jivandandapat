@@ -7,14 +7,14 @@
 
 - 🌱 I’m currently learning **Java, Web Development**
 
-- 💬 Ask me about **Html, Css**
+- 💬 Ask me about **Html, CSS**
 
 - 📫 How to reach me **jivandandapat@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jivan-dandapat-3b69a7242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jivan-dandapat-3b69a7242" height="30" width="40" /></a>
-<a href="https://instagram.com/jivandandapat_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jivandandapat_07" height="30" width="40" /></a>
+<a href="https://instagram.com/jivan_dandapat07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jivan_dandapat07" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/jivan_12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="jivan_12" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/jivandandapat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jivandandapat" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/jivandandapat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jivandandapat" height="30" width="40" /></a>
