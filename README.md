@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jivan Dandapat</h1>
-<h3 align="center">A 3rd Year Computer Science and engineering Student.</h3>
+<h3 align="center">A Final Year Computer Science and engineering Student.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jivandandapat&label=Profile%20views&color=0e75b6&style=flat" alt="jivandandapat" /> </p>
 
